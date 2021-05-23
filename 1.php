@@ -1,7 +1,5 @@
 <?php
 
-echo 'ok';
+echo '1111';
 
-echo 'okokoko';
-
-echo 'kodskldjsk';
+echo '222';
